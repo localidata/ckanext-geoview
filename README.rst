@@ -199,7 +199,7 @@ The encoding of the shapefile can be defined by a custom field named 'encoding' 
 
     ckanext.geoview.shp_viewer.encoding = UTF-8
 
-
+(The ``shp_view`` code was copied from https://github.com/taijiang-tw/ckanext-geoview)
 
 
 ----------------------------------
